@@ -1,1 +1,1 @@
-https://devpost.com/software/gemini-lens
+* https://devpost.com/software/gemini-lens
